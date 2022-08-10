@@ -1,0 +1,62 @@
+
+#head .header{
+
+}
+#head .header .box{
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 1000px;
+    height: 200px;
+    background-color:hsl(184, 47%, 93%);
+    position: absolute;
+    left: 100px;
+    top: 10px;
+}
+#head .header .box .world{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+#head .header .side-bar{
+    border: 2px solid gray;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 130px;
+    width: 200px;
+    height: 450px;
+    background-color:hsl(184, 47%, 93%) ;
+}
+#head .header .side-bar .link {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#head .header .side-bar .link p{
+   
+    margin-left: 15px;
+}
+#head .header .side-bar .link ul li {
+    text-decoration: none;
+    color: hsl(184, 47%, 93%);
+    
+}
+a:link{
+    text-decoration: none;
+}
+#main{
+    margin-top: -200px;
+}
+#main2{
+    margin-left: -20px;
+    margin-top: 10px;
+
+}
+body{
+background-color: ;
+}
+.company{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 20px;
+}
